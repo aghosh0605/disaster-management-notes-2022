@@ -1,0 +1,71 @@
+1. Write the six component of disaster management and
+explain them.
+ - Mitigation, preparedness, prevention, response,
+recovery and reconstruction 
+
+2. What is called as Hazard? Also write the various types of hazards.
+Hazard – Definition 
+Hazard may be defined as “a dangerous condition or event, that threat or have the
+potential for causing injury to life or damage to property or the environment.”
+Types (3 marks)
+• Geological hazard, Environmental hazard, Metereological hazard, Manmade hazard, Natural hazard
+
+3. Write the four phases of disaster management and explain them. (4 marks)
+• Mitigation - Minimizing the effects of disaster. Examples: building codes and
+zoning; vulnerability analyses; public education.
+• Preparedness - Planning how to respond. Examples: preparedness plans;
+emergency exercises/training; warning systems.
+• Response - Efforts to minimize the hazards created by a disaster. Examples:
+search and rescue; emergency relief.
+• Recovery - Returning the community to normal. Examples: temporary housing;
+grants; medical care.
+
+4. Write in detail about disaster management cycle and explain the components of
+the management cycle with a neat sketch.
+ - Explanation about disaster management cycle with types – 10 marks
+ - Diagram – 2 marks
+
+----------------------------------------------------------------------------------------------------
+
+5. Earthquake, Landslide, Nuclear Disaster, Seismic waves, 
+
+-----------------------------------------------------------------------------------------------------
+
+6. Write in detail about early warning system for flood and tsunami.
+Write in detail about early warning system for flood and
+tsunami.
+- Early warning system facilities available for flood
+(5 marks)
+- Automated sensors are placed in or beside rivers and
+reservoirs throughout a designated area.
+- Data is then collected and sent immediately to a base
+station or personal computer.
+-In this way, appropriate forecasts are sent to authorities
+or communities of those potentially affected by the
+developing flood, as soon as possible.
+- Early warning system facilities available for tsunami (5
+marks)
+- DART BUOYS (Deep Ocean Assessment and reporting
+of Tsunamis)
+-Report to tsunami warning Centre, when tsunami occur
+-Information is processed to produce a new and more
+refined estimate of tsunami source
+-Result is an accurate forecast of tsunami
+
+7. Write in detail about role of GIS in Disaster
+Management for various disasters. – 10 marks
+- GIS in prediction of various disasters
+- Warning and early prediction using GIS for
+cyclone and flood
+- Response and rescue operations using GIS for
+earthquake and landslide
+- Application of GIS in disaster management
+
+8. Explain briefly about post disaster stages for landslide
+and earthquake.
+- Post disaster stage for landslide (detailed explanation
+on response, recovery, and rehabilitation facilities) – 5
+marks
+- Post disaster stage for earthquake (Detailed
+explanation on response, recovery, and rehabilitation
+facilities) – 5 marks
